@@ -1,0 +1,5 @@
+[package]
+
+name = "hello_world"
+version = "0.0.1"
+authors = [ "Charles-Henri GUERIN <charleshenri.guerin+rusthelloworld@icloud.com>" ]
